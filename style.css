@@ -1,0 +1,74 @@
+.container{
+    width: 850px;
+    margin: auto;
+}
+
+header{
+
+    background-image:url(img/pattern.png) ;
+    background-size: 250px;
+    color: white;
+    background-color: rgb(66, 112, 230);
+    
+}
+
+.image-size{
+    width: 400px;
+    height: 300px;
+}
+
+small{
+    font-size: 10px;
+}
+
+
+
+.booleaner-color{
+    color:  rgb(66, 112, 230);
+}
+ .marker{
+    background-color: yellow;
+    
+ }
+
+ .border-thead{
+   
+    background-color:  rgb(66, 112, 230);
+
+ }
+    
+.border-tbody{
+    background-color:  rgb(132, 204, 243);
+    width: 300px;
+    height: 100px;
+}
+
+.unread-td{
+    background-color: white;
+
+}
+
+td{
+    width: 260px;
+}
+
+#footer-title{
+    color: rgb(129, 123, 123);
+}
+
+.img-footer1{
+    background-image: url(img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+
+}
+.img-footer2{
+    background-image: url(img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+
+}
